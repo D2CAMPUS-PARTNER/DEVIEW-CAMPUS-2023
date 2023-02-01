@@ -1,5 +1,5 @@
 # DEVIEW CAMPUS 2023
-![image](https://github.com/D2CAMPUS-PARTNER/DEVIEW-CAMPUS-2023/blob/main/스크린샷%202023-02-01%20오후%207.17.51.png)
+![image](https://github.com/D2CAMPUS-PARTNER/DEVIEW-CAMPUS-2023/blob/4a209a22f319358ecf132aeb32a7b5326feaf8db/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-02-01%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.17.51.png)
 **DEVIEW CAMPUS 2023이 무엇인가요?**
   D2 CAMPUS PARTNER 학생개발자들을 대상으로 네이버 개발자들의 경험과 노하우를 나누머 함께 성장하는 개발자 컨퍼런스입니다. 2023년에 처음으로 D2 CAMPUS PARTNER분들을 위해 개최하니 많은 관심 부탁드립니다 :)
 
